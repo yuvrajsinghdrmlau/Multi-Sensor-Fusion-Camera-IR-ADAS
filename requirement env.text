@@ -1,0 +1,38 @@
+torch
+torchvision
+opencv-python
+numpy
+
+
+
+Multi-Sensor-Fusion-Camera-IR-ADAS/
+│
+├── data/
+│   ├── rgb/
+│   ├── ir/
+│   └── calibration/
+│
+├── models/
+│   ├── rgb_backbone.py
+│   ├── ir_backbone.py
+│   └── fusion_module.py
+│
+├── training/
+│   ├── train_fusion.py
+│   └── loss.py
+│
+├── inference/
+│   └── infer_video.py
+│
+├── evaluation/
+│   └── metrics.py
+│
+├── configs/
+│   └── fusion.yaml
+│
+├── results/
+│   ├── qualitative/
+│   └── quantitative/
+│
+├── requirements.txt
+└── README.md
