@@ -10,7 +10,7 @@ class RGBIRDataset(Dataset):
         self.rgb_dir = rgb_dir
         self.ir_dir = ir_dir
         self.transform = transform
-
+#de
     def __len__(self):
         return len(self.rgb_files)
 
