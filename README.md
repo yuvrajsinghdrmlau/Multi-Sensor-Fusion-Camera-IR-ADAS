@@ -5,7 +5,7 @@
 This project implements a multi-sensor fusion pipeline combining RGB camera and infrared (IR) data to improve object detection robustness in low-light and night-time ADAS scenarios.
 
 ## Motivation
-Single-sensor perception systems struggle under poor illumination.  By fusing RGB and IR modalities, the system achieves higher robustness and reliability for automotive perception tasks.
+Single-sensor perception systems struggle under poor illumination. By fusing RGB and IR modalities, the system achieves higher robustness and reliability for automotive perception tasks.
 
 ## Methodology
 - Sensor calibration and spatial alignment between RGB and IR inputs
