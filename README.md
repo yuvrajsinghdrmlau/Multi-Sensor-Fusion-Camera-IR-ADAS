@@ -13,7 +13,7 @@ Single-sensor perception systems struggle under poor illumination. By fusing RGB
 - Feature-level fusion using attention mechanisms
 - Temporal consistency across video frames to reduce false positives
 
-## Results
+## Results 
 - ~15–20% improvement in detection accuracy compared to single-sensor models 
 - Stable detections under low illumination and night-time conditions
 - Real-time inference performance of ~25–30 FPS on GPU
