@@ -7,7 +7,7 @@ This project implements a multi-sensor fusion pipeline combining RGB camera and 
 ## Motivation
 Single-sensor perception systems struggle under poor illumination. By fusing RGB and IR modalities, the system achieves higher robustness and reliability for automotive perception tasks.
 
-## Methodology
+## Methodology 
 - Sensor calibration and spatial alignment between RGB and IR inputs
 - Dual-backbone architecture with modality-specific feature extraction
 - Feature-level fusion using attention mechanisms
